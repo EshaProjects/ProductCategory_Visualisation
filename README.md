@@ -1,4 +1,4 @@
-Welcome to the **Sales Dashboard created for Fictitious Co.**
+Welcome to the **Sales Dashboard created for Fictitious Co. via PowerBI**
 
 This Power BI dashboard provides a comprehensive and visually appealing overview of the sales performance of Fictitious Co. 
 The dashboard consists of multiple interactive visualizations that highlight various aspects of Fictitious Co.'s sales performance.
